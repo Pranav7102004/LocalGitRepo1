@@ -1,1 +1,2 @@
-Local repo
+MY first git repository
+
